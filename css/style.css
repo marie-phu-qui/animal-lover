@@ -16,6 +16,10 @@ body {
     font-weight: 100;
 }
 
+.title, .subtitle {
+    text-align: right;
+}
+
 .title-logo {
     margin-top:20px;
 }
